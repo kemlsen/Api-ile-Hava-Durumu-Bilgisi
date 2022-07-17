@@ -1,0 +1,11 @@
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\bin\Debug\HavaDurumuAPII.exe.config
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\bin\Debug\HavaDurumuAPII.exe
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\bin\Debug\HavaDurumuAPII.pdb
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\obj\Debug\HavaDurumuAPII.csproj.AssemblyReference.cache
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\obj\Debug\HavaDurumuAPII.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\obj\Debug\HavaDurumuAPII.Form1.resources
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\obj\Debug\HavaDurumuAPII.Properties.Resources.resources
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\obj\Debug\HavaDurumuAPII.csproj.GenerateResource.cache
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\obj\Debug\HavaDurumuAPII.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\obj\Debug\HavaDurumuAPII.exe
+C:\Users\Kemal\source\repos\HavaDurumuAPII\HavaDurumuAPII\obj\Debug\HavaDurumuAPII.pdb
